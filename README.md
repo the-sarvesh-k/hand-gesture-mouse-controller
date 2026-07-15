@@ -8,6 +8,12 @@ I wanted to see if I could control my computer using only hand movements — no 
 
 After fixing issue after issue, I ended up with a fully working, smooth, and responsive hand-controlled mouse system.
 
+##Demo Video 
+
+[See Here](https://github.com/user-attachments/assets/3e2b449b-caf4-4bba-b723-6d6a2412c989)
+
+
+
 ## ✨ Features
 
 - 🖱️ **Cursor movement** — move your hand to move the mouse pointer
